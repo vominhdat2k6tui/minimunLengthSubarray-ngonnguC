@@ -18,10 +18,3 @@ int minimunLengthSubarray(int a[], int n, int target){
 }
 
 
-int main() {
-    int a[4] = {4,2,2,5};
-    int target = 7;
-    int result = minimunLengthSubarray(a,4,target);
-    printf("%d",result);
-    return 0;
-}
