@@ -1,0 +1,2 @@
+# minimunLengthSubarray-ngonnguC
+first
